@@ -26,3 +26,5 @@ Defines the reset method to reset the test by stopping the test, resetting count
 Creates an instance of the SpeedTest class, which starts the GUI application.
 
 Overall, this code creates a simple typing speed test application where users type a given sample text, and the application calculates and displays their typing speed in characters per second, characters per minute, words per second, and words per minute. The application also provides a reset button to start the test again with a new sample text.
+![image](https://github.com/AndreiPopescuF/Speed-test/assets/116428721/2a9b5d41-704a-492b-9c97-04770f7f4f4e)
+
